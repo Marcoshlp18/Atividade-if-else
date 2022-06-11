@@ -16,22 +16,6 @@ if( (mêsDeAniversário =="Janeiro") ||(mêsDeAniversário =="Dezembro") ){
 }else{
   console.log("Mentiroso mija na cama!");
 }
-let SeuNome="Rian";
 
-if (SeuNome.indexOf("R")) {
-  console.log("Sabia que a letra R é a letra 18 do alfabeto ?");
-}
-
-
-
-let str= "Hello World!";
-        if(str.contains("World")) 
-        {
-          console.log("It is true");
-        }
-        else
-        {
-          console.log("It is false");  
-        }
 
 
