@@ -17,5 +17,12 @@ if( (mêsDeAniversário =="Janeiro") ||(mêsDeAniversário =="Dezembro") ){
   console.log("Mentiroso mija na cama!");
 }
 
+let nomeComR= "Ricardo";
+if(nomeComR[0]=== "R"){
+  console.log(`Seu nome é: ${nomeComR}`);
+}else{
+  console.log("Seu nome não conmeça com R");
+}
+
 
 
