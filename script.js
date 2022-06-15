@@ -24,5 +24,10 @@ if(nomeComR[0]=== "R"){
   console.log("Seu nome não conmeça com R");
 }
 
-
+let sobrenome="Januario";
+if(sobrenome.length >=6 || (nome[0]=== "E")){
+  console.log("Condição verdadeira");
+}else{
+  console.log("Condição falsa");
+}
 
